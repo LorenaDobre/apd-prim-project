@@ -1,0 +1,31 @@
+Sequential Prim Algorithm - Performance Test
+
+Graph size: 2000 nodes
+Loading graph from file...
+MST cost: 130384
+Execution time: 2.6249 seconds
+
+Graph size: 4000 nodes
+Loading graph from file...
+MST cost: 126816
+Execution time: 10.6661 seconds
+
+Graph size: 8000 nodes
+Loading graph from file...
+MST cost: 138607
+Execution time: 35.4561 seconds
+
+Graph size: 12000 nodes
+Loading graph from file...
+MST cost: 136582
+Execution time: 84.4246 seconds
+
+Graph size: 32000 nodes
+Loading graph from file...
+MST cost: 147408
+Execution time: 606.98 seconds
+
+Graph size: 40000 nodes
+Loading graph from file...
+MST cost: 151586
+Execution time: 916.597 seconds
