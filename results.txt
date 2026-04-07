@@ -29,3 +29,48 @@ Graph size: 40000 nodes
 Loading graph from file...
 MST cost: 151586
 Execution time: 916.597 seconds
+
+
+Parallel Prim Algorithm - MPI - Performance Test
+Number of processes: 4
+
+Graph size: 2000 nodes
+Loading graph from file...
+Running Prim algorithm...
+MST cost: 130384
+Execution time: 0.0580151 seconds
+
+
+Graph size: 4000 nodes
+Loading graph from file...
+Running Prim algorithm...
+MST cost: 126816
+Execution time: 0.21837 seconds
+
+
+Graph size: 8000 nodes
+Loading graph from file...
+Running Prim algorithm...
+MST cost: 138607
+Execution time: 0.989938 seconds
+
+
+Graph size: 12000 nodes
+Loading graph from file...
+Running Prim algorithm...
+MST cost: 136582
+Execution time: 1.71392 seconds
+
+
+Graph size: 32000 nodes
+Loading graph from file...
+Running Prim algorithm...
+MST cost: 147408
+Execution time: 11.8712 seconds
+
+
+Graph size: 40000 nodes
+Loading graph from file...
+Running Prim algorithm...
+MST cost: 151586
+Execution time: 18.4908 seconds
